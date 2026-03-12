@@ -1,4 +1,3 @@
-# DarkByteDev
 # 👋 Hi, I'm Ayan
 
 ## 🔐 Cyber Security Student | Ethical Hacking Learner
